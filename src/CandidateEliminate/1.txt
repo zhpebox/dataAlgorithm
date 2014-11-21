@@ -1,0 +1,4 @@
+0 Sunny Warm Normal Strong Warm Yes
+1 Sunny Warm High Strong Warm Yes 
+2 Rainy Cold High Strong Warm No
+3 Sunny Warm High Strong Cool Yes
